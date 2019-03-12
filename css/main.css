@@ -25,15 +25,21 @@ body {
 .art {
   color: #ffff;
   font-family: "Montserrat", sans-serif;
+  font-size: 1.2em;
 }
 
 .go {
   font-family: "Montserrat", sans-serif;
+  font-size: 1.2em;
   color: #fbb995;
 }
 
 h1 {
   color: #fbb995;
   font-size: 6.854em;
-  line-height: 1.1;
+  line-height: 1;
+}
+
+hr {
+  border-color: #fbb995;
 }
