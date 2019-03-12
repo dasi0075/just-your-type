@@ -27,6 +27,11 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-p {
+.go {
+  font-family: "Montserrat", sans-serif;
+  color: #fbb995;
+}
+
+li {
   color: #fbb995;
 }
