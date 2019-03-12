@@ -21,3 +21,12 @@ body {
   margin: 0;
   background-color: #134d6d;
 }
+
+.art {
+  color: #ffff;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  color: #fbb995;
+}
