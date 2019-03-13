@@ -1,18 +1,5 @@
-html {
-  box-sizing: border-box;
-
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
 
 body {
-  margin: 0;
   background-color: #134d6d;
 }
 
@@ -26,7 +13,7 @@ body {
   color: #fbb995;
 }
 
-span {
+h1 {
   color: #fbb995;
 }
 
