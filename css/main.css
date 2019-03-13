@@ -6,6 +6,11 @@ body {
 .art {
   color: #fff;
   font-family: Montserrat, sans-serif;
+  border: 3px solid #fbb995;
+  border-left: 3px solid #134d6d;
+  border-right: 3px solid #134d6d;
+  padding-top: 3em;
+  padding-bottom: 3em;
 }
 
 .go {
@@ -15,9 +20,6 @@ body {
 
 h1 {
   color: #fbb995;
-  border-radius: 25em;
-  border-width: medium;
-  border-color: #fbb995;
 }
 
 hr {
