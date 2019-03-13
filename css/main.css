@@ -15,6 +15,9 @@ body {
 
 h1 {
   color: #fbb995;
+  border-radius: 25em;
+  border-width: medium;
+  border-color: #fbb995;
 }
 
 hr {
